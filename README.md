@@ -1,4 +1,4 @@
-# Portfolio Project 2 - PowerBI and Power Query - Data Professionals Survey
+# Portfolio Project 2 - PowerBI + Power Query - Data Professionals Survey
 
 Welcome to my second portfolio project. In this **data transformation and visualisation project**, I transform data from a survey of professionals in the data industries in Power Query and then visualise it as an interactive 2-page dashboard with PowerBI.
 
