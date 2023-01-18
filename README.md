@@ -13,7 +13,7 @@ For example, the dataset column listing survey responses for "Current yearly sal
 
 Therefore, I first converted the ranges into individual numbers by splitting the column into two new columns, using the hyphen "-" as a delimiter. This gave me e.g. "41k" and "65k" in 2 separate columns. I then transformed each alphanumeric value into a numeric value, e.g. replacing "45k" with "45,000".
 
-Then, using these 2 new numeric columns, I calculated a new column of the average of the 2 values. While this may not be optimal in determining industry average salaries, given that the original data collected itself was in a range format and not individual responses, this method gives us a suitable way of visualising the data, while being reasonable enough to glean insights through visualisation.
+Then, using these 2 new numeric columns, I calculated a new column of the average of the 2 values. While this may not be optimal in determining industry average salaries, given that the original data collected itself was in a range format and not individual responses, this method gives us a suitable way of visualising the data, while still being reasonable enough to glean insights from the data.
 
 
 **Transforming Data 2 - Others: Custom Responses**
