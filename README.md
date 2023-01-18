@@ -1,6 +1,6 @@
 # Portfolio Project 2 - PowerBI and Power Query - Data Industry Survey
 
-Welcome to my second portfolio project. In this **data transformation and visualisation project**, I transform data from a survey of professionals in the data industries in Power Query and then visualise it as an interactive 2-page dashboard with PowerBI.
+Welcome to my second portfolio project. In this **data transformation and visualisation project**, I transform data from a survey of professionals in the data industries (data scientists, data analysts, data engineers etc.) in Power Query and then visualise it as an interactive 2-page dashboard with PowerBI.
 
 In this repository, there is 1 PowerBI file (the dashboard project) and 1 Excel worksheet (the dataset).
 
