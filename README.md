@@ -43,8 +43,8 @@ Page 2
 ![portfolio_2-image-dashboard_2](https://user-images.githubusercontent.com/122973220/213431780-c9ed74b9-e2f6-46c9-8fcf-b83a26491259.jpg)
 
 
-**Project Files**
-
-In this repository, there is 1 PowerBI file (the dashboard project) and 1 Excel worksheet (the dataset).
+**Project Files and Data Source Citation**
 
 The survey was conducted and dataset provided by Alex Freberg (also known as Alex The Analyst), special thanks to him - https://www.alextheanalyst.com/
+
+In this repository, there is 1 PowerBI file (the dashboard project) and 1 Excel worksheet (the dataset).
