@@ -15,11 +15,13 @@ Therefore, I first converted the ranges into individual numbers by splitting the
 
 Then, using these 2 new numeric columns, I calculated a new column of the average of the 2 values. While this may not be optimal in determining industry average salaries, given that the original data collected itself was in a range format and not individual responses, this method gives us a suitable way of visualising the data, while still being reasonable enough to glean insights from the data.
 
+![portfolio_2-image-transformating_data_1](https://user-images.githubusercontent.com/122973220/213428543-0ea1cd43-a23e-47a4-b408-9f9cab894b56.jpg)
 
 **Transforming Data 2 - Others: Custom Responses**
 
 I did similar transformation of data in other columns. Wherever responses were "Others", the original survey listed "Others: Please specify..." with each individual allowed to provide a custom response. I again split the columns, using the semi-colon ":" as the delimiter, and then deleted the second column with the custom responses. This retained all "Others" responses in the original column along with the main options, allowing me to simplify visualisation with all "Others" responses grouped together.
 
+![portfolio_2-image-transformating_data_2](https://user-images.githubusercontent.com/122973220/213428528-ee97c2c3-ed15-4b35-92a2-2522853b7d15.jpg)
 
 **Transforming Data 3 - Difficulty Level**
 
@@ -28,3 +30,6 @@ One of the questions on the survey was "How difficult was it for you to break in
 However, these are text values. So during visualisation, PowerBI listed them in alphabetical order, i.e. Difficult - Easy - Neutral -Very Difficult - Very Easy. In order to get the desired order of difficulty, I created a duplicate column and replaced each value with an added number in front, i.e. "1 - Very Easy", "2 - Easy", "3 - Neutral", "4 - Difficult" and "5 - Very Difficult".
 
 I then had PowerBI sort the original difficulty level column (included in the table) according to the new duplicate column (with numbers added). This then allowed the "Getting a Job in Data" table on dashboard page 2 to have the difficulty levels listed in order from Very Easy down to Very Difficult, as PowerBI could now simply match each response in the original column to its corresponding value in the numbered column.
+
+![portfolio_2-image-transformating_data_3](https://user-images.githubusercontent.com/122973220/213427728-b7315e85-b628-44ac-b980-7eb19a75beb7.jpg)
+
