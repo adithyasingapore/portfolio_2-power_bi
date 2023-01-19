@@ -4,6 +4,8 @@ Welcome to my second portfolio project. In this **data transformation and visual
 
 In this repository, there is 1 PowerBI file (the dashboard project) and 1 Excel worksheet (the dataset).
 
+The survey was conducted and dataset provided by Alex Freberg (also known as Alex The Analyst), special thanks to him - https://www.alextheanalyst.com/
+
 The original data required extensive cleaning before visualisation, but instead of doing this in Excel, I have done it within the PowerBI project itself using Power Query.
 
 **Transforming Data 1 - Yearly Salary**
