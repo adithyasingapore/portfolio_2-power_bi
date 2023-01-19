@@ -2,10 +2,6 @@
 
 Welcome to my second portfolio project. In this **data transformation and visualisation project**, I transform data from a survey of data professionals across industries (data scientists, data analysts, data engineers etc.) in Power Query and then visualise it as an interactive 2-page dashboard with PowerBI.
 
-In this repository, there is 1 PowerBI file (the dashboard project) and 1 Excel worksheet (the dataset).
-
-The survey was conducted and dataset provided by Alex Freberg (also known as Alex The Analyst), special thanks to him - https://www.alextheanalyst.com/
-
 The original data required extensive cleaning before visualisation, but instead of doing this in Excel, I have done it within the PowerBI project itself using Power Query.
 
 **Transforming Data 1 - Yearly Salary**
@@ -45,3 +41,10 @@ Page 1
 Page 2
 
 ![portfolio_2-image-dashboard_2](https://user-images.githubusercontent.com/122973220/213431780-c9ed74b9-e2f6-46c9-8fcf-b83a26491259.jpg)
+
+
+**Project Files**
+
+In this repository, there is 1 PowerBI file (the dashboard project) and 1 Excel worksheet (the dataset).
+
+The survey was conducted and dataset provided by Alex Freberg (also known as Alex The Analyst), special thanks to him - https://www.alextheanalyst.com/
