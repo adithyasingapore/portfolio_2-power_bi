@@ -6,7 +6,6 @@ In this repository, there is 1 PowerBI file (the dashboard project) and 1 Excel 
 
 The original data required extensive cleaning before visualisation, but instead of doing this in Excel, I have done it within the PowerBI project itself using Power Query.
 
-
 **Transforming Data 1 - Yearly Salary**
 
 For example, the dataset column listing survey responses for "Current yearly salary (in USD)" is listed in alphanumeric salary ranges, e.g. 41k-65k, 106-125k etc. This format is not numeric, and also it is a range, not an individual number, making it unsuitable for visualisation.
@@ -33,3 +32,14 @@ I then selected the original Difficulty Level column (which is the column I incl
 
 ![portfolio_2-image-transformating_data_3](https://user-images.githubusercontent.com/122973220/213427728-b7315e85-b628-44ac-b980-7eb19a75beb7.jpg)
 
+**Finished Dashboard**
+
+Here are the screenshots of the finished dashboard.
+
+Page 1
+
+![portfolio_2-image-dashboard_1](https://user-images.githubusercontent.com/122973220/213431666-8fd8b534-cd1f-40a3-9f6a-aecc04776e3b.jpg)
+
+Page 2
+
+![portfolio_2-image-dashboard_2](https://user-images.githubusercontent.com/122973220/213431780-c9ed74b9-e2f6-46c9-8fcf-b83a26491259.jpg)
