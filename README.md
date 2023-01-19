@@ -29,7 +29,7 @@ One of the questions on the survey was "How difficult was it for you to break in
 
 However, these are **_text_** values. So during visualisation, PowerBI listed them in **_alphabetical_** order, i.e. Difficult - Easy - Neutral -Very Difficult - Very Easy. In order to get the desired order of difficulty, I created a duplicate column called Difficulty Code, adding a number in front of each value, i.e. "1 (Very Easy)", "2 (Easy)", "3 (Neutral)", "4 (Difficult)" and "5 (Very Difficult)".
 
-I then selected the original difficulty level column (which is the column I included in the table) and had PowerBI "sort by column" (under column tools) by the new Diffculty Code column (with numbers added). This then allowed the "Getting a Job in Data" table on dashboard page 2 to have the difficulty levels listed in order from Very Easy down to Very Difficult, as PowerBI could now simply match each Difficulty Level response in the original column to its corresponding Difficulty Code value in the numbered column.
+I then selected the original Difficulty Level column (which is the column I included in the table) and had PowerBI "sort by column" (under column tools) by the new Diffculty Code column (with numbers added). This then allowed the "Getting a Job in Data" table on dashboard page 2 to have the difficulty levels listed in order from Very Easy down to Very Difficult, as PowerBI could now simply match each Difficulty Level response in the original column to its corresponding Difficulty Code value in the numbered column.
 
 ![portfolio_2-image-transformating_data_3](https://user-images.githubusercontent.com/122973220/213427728-b7315e85-b628-44ac-b980-7eb19a75beb7.jpg)
 
